@@ -1,4 +1,4 @@
-import { Event } from "eventery"
+import { Event } from "eventery"  
 
 /**
  * A class wrapping an array of entities of a specific type, providing
